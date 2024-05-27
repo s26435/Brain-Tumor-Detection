@@ -15,8 +15,9 @@
 * Papiloma 
 * Schwannoma
 * Tuberculoma
-<br>
+
 ## Model summary:
+
 <table>
     <tr>
         <th>Layer Number</th>
